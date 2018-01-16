@@ -11,5 +11,6 @@
     <orderEntry type="jdk" jdkName="Haxe 3.4.4" jdkType="Haxe toolkit" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="module" module-name="core" />
+    <orderEntry type="library" name="stablexui-1,2,1" level="application" />
   </component>
 </module>
